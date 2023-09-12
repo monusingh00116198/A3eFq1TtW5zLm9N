@@ -1,1 +1,3 @@
-test
+<?php
+ehco 123;
+?>
